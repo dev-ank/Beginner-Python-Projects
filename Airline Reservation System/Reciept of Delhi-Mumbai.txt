@@ -1,0 +1,9 @@
+Flight001
+Price:5500
+From: Delhi to: Mumbai
+PNR NO: 13456629
+Date of departure: 8/7/20
+Return date: 8/7/20
+No of passengers: 1
+Seat no. of the passenger 1 is: 1
+Payment mode: Debit Card

@@ -1,0 +1,4 @@
+This application is developed to book airline tickets easily. 
+This is a user friendly application and it has basically two interfaces:
+1.main page
+2.checkout page

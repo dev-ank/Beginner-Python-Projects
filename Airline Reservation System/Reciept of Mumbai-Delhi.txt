@@ -1,0 +1,12 @@
+Flight001
+Price:5500
+From: Mumbai to: Delhi
+PNR NO: 10605586
+Date of departure: 8/7/20
+Return date: 8/7/20
+No of passengers: 4
+Seat no. of the passenger 1 is: 4
+Seat no. of the passenger 2 is: 4
+Seat no. of the passenger 3 is: 8
+Seat no. of the passenger 4 is: 4
+Payment mode: UPI
